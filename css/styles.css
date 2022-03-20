@@ -5,6 +5,7 @@
     text-decoration: none;
     list-style: none;
     color: #fff;
+    border: 0;
    
 }
 
@@ -358,6 +359,8 @@ nav button {
 }
 .footer ul li {
     margin-bottom: .65rem;
+    text-decoration: none;
+    list-style: none;
 }
 .footer ul li a:hover {
     color: var(--color-danger);
